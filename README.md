@@ -6,7 +6,6 @@ For the original 104 key design, see his repository here: [https://github.com/em
 
 I've been replicating a similar design for an 87 key tenkeyless board.
 
-Layout is Mac / ANSI. (Super = Cmd, Meta = Alt)
 
 # License
 
