@@ -82,9 +82,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="1155.9877"
-     inkscape:cy="145.26981"
+     inkscape:zoom="1"
+     inkscape:cx="850.01972"
+     inkscape:cy="371.76231"
      inkscape:document-units="px"
      inkscape:current-layer="layer36"
      showgrid="true"
@@ -40873,6 +40873,29 @@
          d="m 1242.9922,353.43629 -1.3282,0 0,-2.09059 1.3282,0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#61acbb;fill-opacity:1;stroke:none"
          id="path7215-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       style="display:inline;fill:#af3a03;fill-opacity:1"
+       transform="matrix(0.22263713,-1,1,0,187.44545,1409.6317)"
+       id="g7209-7-6">
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path7211-4-3"
+         d="m 1242.3125,337.43748 -0.9375,0.9375 -3.3125,3.3125 0.9375,0.96875 2.6562,-2.625 0,7.03125 1.3438,0 0,-7.0625 2.6562,2.65625 0.9376,-0.9375 -3.3126,-3.34375 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#af3a03;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7213-8-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#af3a03;fill-opacity:1;stroke:none"
+         d="m 1242.9922,350.24939 -1.3282,0 0,-2.09059 1.3282,0" />
+      <path
+         d="m 1242.9922,353.43629 -1.3282,0 0,-2.09059 1.3282,0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#af3a03;fill-opacity:1;stroke:none"
+         id="path7215-7-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
     </g>
